@@ -1,1 +1,5 @@
 Hello friends! My name is Lydia!
+
+Some other cool stuff.
+
+My favorite color is blue.
